@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+diffusers
+transformers
+accelerate
+Pillow
+opencv-python-headless
+requests
+safetensors
